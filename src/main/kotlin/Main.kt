@@ -1,6 +1,7 @@
 fun main() {
     listOf<BaseSolution>(
         Task1(),
+        Task2(),
     ).forEach { it.run() }
 }
 
